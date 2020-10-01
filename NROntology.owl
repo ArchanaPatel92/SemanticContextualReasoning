@@ -1,0 +1,406 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY untitled-ontology-18 "http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#"
+     xml:base="http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:untitled-ontology-18="http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#DistinctiveFeatures -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;DistinctiveFeatures"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#NationalHoliday -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;NationalHoliday">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#Parameter-γ -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;Parameter-γ"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#UNK -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;UNK">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#Unless -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;Unless"/>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#WorkingNightShift -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;WorkingNightShift">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#WorksInCityR -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;WorksInCityR">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#badWeather -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;badWeather">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#daySunday -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;daySunday">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#handicap -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;handicap">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#hasHarvestingTool -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;hasHarvestingTool">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#hasLongVacation -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;hasLongVacation">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#hasSoilFertile -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;hasSoilFertile">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#ill -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;ill">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isEntertainingOutCity -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;isEntertainingOutCity">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isFramer -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;isFramer">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isOnTour -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;isOnTour">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isShopkeeper -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;isShopkeeper">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isTeacher -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;isTeacher">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isUnemployed -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;isUnemployed">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isdoingOverTime -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;isdoingOverTime">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#landowner -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;landowner">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#livesInCityR -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;livesInCityR">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#metAnaccident -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;metAnaccident">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#onLeave -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;onLeave">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#onrest -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;onrest">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#riotsInCity -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;riotsInCity">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;Unless"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#timeDay -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;timeDay">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#timeNight -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;timeNight">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#workingDay -->
+
+    <owl:AnnotationProperty rdf:about="&untitled-ontology-18;workingDay">
+        <rdfs:subPropertyOf rdf:resource="&untitled-ontology-18;DistinctiveFeatures"/>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#Other -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;Other">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isWorkingOutdoor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isAtHome -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isAtHome">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isInCityR"/>
+        <timeNight rdf:datatype="&xsd;string"></timeNight>
+        <WorkingNightShift rdf:datatype="&xsd;float">0.01</WorkingNightShift>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <isdoingOverTime rdf:datatype="&xsd;float">0.02</isdoingOverTime>
+        <Parameter-γ rdf:datatype="&xsd;float">0.9</Parameter-γ>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isCuttingCrops -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isCuttingCrops">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isWorkingOutdoor"/>
+        <isFramer rdf:datatype="&xsd;string"></isFramer>
+        <hasHarvestingTool rdf:datatype="&xsd;string"></hasHarvestingTool>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <Parameter-γ rdf:datatype="&xsd;float">0.99</Parameter-γ>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isEntertainingOutdoor -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isEntertainingOutdoor">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isOutdoor"/>
+        <daySunday rdf:datatype="&xsd;string"></daySunday>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <Parameter-γ rdf:datatype="&xsd;float">0.94</Parameter-γ>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isInCityR -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isInCityR">
+        <hasLongVacation rdf:datatype="&xsd;float">0.01</hasLongVacation>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <isOnTour rdf:datatype="&xsd;float">0.02</isOnTour>
+        <isEntertainingOutCity rdf:datatype="&xsd;float">0.02</isEntertainingOutCity>
+        <Parameter-γ rdf:datatype="&xsd;float">0.94</Parameter-γ>
+        <livesInCityR></livesInCityR>
+        <WorksInCityR></WorksInCityR>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isOutdoor -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isOutdoor">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isInCityR"/>
+        <timeDay rdf:datatype="&xsd;string"></timeDay>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <riotsInCity rdf:datatype="&xsd;float">0.02</riotsInCity>
+        <ill rdf:datatype="&xsd;float">0.03</ill>
+        <badWeather rdf:datatype="&xsd;float">0.03</badWeather>
+        <Parameter-γ rdf:datatype="&xsd;float">0.91</Parameter-γ>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isPlantingCrops -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isPlantingCrops">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isWorkingOutdoor"/>
+        <isFramer rdf:datatype="&xsd;string"></isFramer>
+        <hasSoilFertile rdf:datatype="&xsd;string"></hasSoilFertile>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <onrest rdf:datatype="&xsd;float">0.01</onrest>
+        <handicap rdf:datatype="&xsd;float">0.03</handicap>
+        <landowner rdf:datatype="&xsd;float">0.03</landowner>
+        <Parameter-γ rdf:datatype="&xsd;float">0.92</Parameter-γ>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isSelling -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isSelling">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isWorkingOutdoor"/>
+        <isShopkeeper rdf:datatype="&xsd;string"></isShopkeeper>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <Parameter-γ rdf:datatype="&xsd;float">0.99</Parameter-γ>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isTeaching -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isTeaching">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isWorkingOutdoor"/>
+        <isTeacher rdf:datatype="&xsd;string"></isTeacher>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <onLeave rdf:datatype="&xsd;float">0.02</onLeave>
+        <Parameter-γ rdf:datatype="&xsd;float">0.97</Parameter-γ>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ambrish/ontologies/2020/8/untitled-ontology-18#isWorkingOutdoor -->
+
+    <owl:Class rdf:about="&untitled-ontology-18;isWorkingOutdoor">
+        <rdfs:subClassOf rdf:resource="&untitled-ontology-18;isOutdoor"/>
+        <workingDay rdf:datatype="&xsd;string"></workingDay>
+        <NationalHoliday rdf:datatype="&xsd;float">0.01</NationalHoliday>
+        <UNK rdf:datatype="&xsd;float">0.01</UNK>
+        <isUnemployed rdf:datatype="&xsd;float">0.03</isUnemployed>
+        <metAnaccident rdf:datatype="&xsd;float">0.03</metAnaccident>
+        <Parameter-γ rdf:datatype="&xsd;float">0.92</Parameter-γ>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+
