@@ -1,0 +1,1618 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/viva/ontologies/2017/4/untitled-ontology-82"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/viva/ontologies/2017/4/untitled-ontology-82">
+    <Prefix name="" IRI="http://www.semanticweb.org/viva/ontologies/2017/4/untitled-ontology-82"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <DataProperty IRI="#eyes"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#visibility"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Monday"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Unlike"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_60_minutes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#White_Ants"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_not_intelligent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Matter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vertical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pliable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chairs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Based_Abstract_Entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Physical_State"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#feeling"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_mind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Water_Bodied"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#aware_of_an_event"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#dimensions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Living"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Time"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_12_months"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_28_days"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#ears"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#body_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Man_Made"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#stoppable"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#shape"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#legs"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_intelligent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Imaginary_Number"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Derived_Abstract_Entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dry"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Internal_Attributes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nanosecond"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#reproduction"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#nose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shells"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#abundant"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_4_weeks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Propositions"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#volume"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Minutes"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#possesses_air"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#body_symmetry"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#contain_everything"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#sense_of_touch_and_taste_and_smell_and_sight_and_hearing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spirit"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#usefulness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Space"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Literary_Text"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Earth_Bodied"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#1_Sensed"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#skeleton_system"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#photosynthetic_eukaryotes"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#cell_wall"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#possesses_fire"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#not_attentive"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#size"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Attributes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Days"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#if_primitive"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#limit_of_surrounding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#False"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#respiration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Air_Bodied"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#weightless"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mathematical_Objects"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Years"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_body"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sunday"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_30_days"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#sense_of_touch_and_taste"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fire_Bodied"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#possesses_water"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Gas"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_structure"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#part_of_universe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Liquid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Numbers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plant_Bodied"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#if_derived_from_primitive"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Symbols"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Microsecond"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#February"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#habitat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Hours"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_consciousness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#June"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#physical_existence"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_tangible"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Figures"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Saturday"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Complex_Number"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#decision_making"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mind"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#August"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#does_not_has_consciousness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Humans"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#color"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Conscious"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_24_hours"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Machines"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Relational_Attributes"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#density"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fact"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Concrete_Entity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Positional_Attribute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Friday"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Real_Numbers"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#side"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Millisecond"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Subconscious"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Horizontal"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_unique_property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Non_Living"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#April"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Thursday"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Scorpions"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Intelligible_Matter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#November"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Insects"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Time_Interval"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lice"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#requires_energy"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_7_days"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Like"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Full_Time"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#cannot_be_seen"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_well_defined_concept"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Time_Position"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_31_days"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#geometry"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#feel"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_relationship_property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#September"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#December"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Part_Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#True"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_tautology"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#changeable"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#respire"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#dimensionality"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#truthness"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#unchanged"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mobile"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#make_an_appearance"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Solid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Rigid"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hands"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Social_Role"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bugs"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#thinking"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seconds"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_29_days"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#not_aware"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Text"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#topology"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tuesday"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Truth_Value"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#2_Sensed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Week"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#renewable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wet"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#produces_energy"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Animals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Saturation_Attribute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Moon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#4_Sensed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#January"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#font_style"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#humans_are_involved"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Left"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#autotrophic"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#July"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_numerical_val"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#October"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#attribute_identifiers"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Abstract_Entity"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_mass"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#3_Sensed"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_1_sense"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Natural"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#tongue"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_60_seconds"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computers"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_mass_and_space"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#5_Sensed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sun"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Unconscious"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#May"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_unstoppable"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#angle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Right"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#humans_are_not_involved"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#not_movable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mountains"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Worms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Factual_Text"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#sense_of_touch_and_taste_and_smell"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fillable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Perceptible_Matter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Storms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wednesday"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#March"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_weight"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#written_or_printed_work"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Time_Duration"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Months"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shape_Attribute"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#sense_of_touch_and_taste_and_smell_and_sight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Spiders"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#is_not_tangible"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Immobile"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#movable"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Abstract_Entity"/>
+        <Class IRI="#Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Air_Bodied"/>
+        <Class IRI="#1_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Animals"/>
+        <Class IRI="#5_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#April"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Attributes"/>
+        <Class IRI="#Derived_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#August"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Based_Abstract_Entity"/>
+        <Class IRI="#Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bugs"/>
+        <Class IRI="#3_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chairs"/>
+        <Class IRI="#Man_Made"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Complex_Number"/>
+        <Class IRI="#Numbers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computers"/>
+        <Class IRI="#Man_Made"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Concrete_Entity"/>
+        <Class IRI="#Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Conscious"/>
+        <Class IRI="#Mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Days"/>
+        <Class IRI="#Week"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#December"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Derived_Abstract_Entity"/>
+        <Class IRI="#Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dry"/>
+        <Class IRI="#Saturation_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Earth_Bodied"/>
+        <Class IRI="#1_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fact"/>
+        <Class IRI="#Derived_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Factual_Text"/>
+        <Class IRI="#Text"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#False"/>
+        <Class IRI="#Truth_Value"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#February"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Figures"/>
+        <Class IRI="#Mathematical_Objects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fillable"/>
+        <Class IRI="#Shape_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fire_Bodied"/>
+        <Class IRI="#1_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Friday"/>
+        <Class IRI="#Days"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Full_Time"/>
+        <Class IRI="#Time_Position"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Gas"/>
+        <Class IRI="#Physical_State"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Horizontal"/>
+        <Class IRI="#Positional_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Hours"/>
+        <Class IRI="#Time_Interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Humans"/>
+        <Class IRI="#5_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Imaginary_Number"/>
+        <Class IRI="#Numbers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Immobile"/>
+        <Class IRI="#Living"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Insects"/>
+        <Class IRI="#2_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Intelligible_Matter"/>
+        <Class IRI="#Matter"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Internal_Attributes"/>
+        <Class IRI="#Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#January"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#July"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#June"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Left"/>
+        <Class IRI="#Positional_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lice"/>
+        <Class IRI="#3_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Like"/>
+        <Class IRI="#Truth_Value"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Liquid"/>
+        <Class IRI="#Physical_State"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Literary_Text"/>
+        <Class IRI="#Text"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Living"/>
+        <Class IRI="#Concrete_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Machines"/>
+        <Class IRI="#Man_Made"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Man_Made"/>
+        <Class IRI="#Non_Living"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#March"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mathematical_Objects"/>
+        <Class IRI="#Derived_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Matter"/>
+        <Class IRI="#Based_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#May"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Microsecond"/>
+        <Class IRI="#Millisecond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Millisecond"/>
+        <Class IRI="#Seconds"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mind"/>
+        <Class IRI="#Based_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Minutes"/>
+        <Class IRI="#Hours"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mobile"/>
+        <Class IRI="#Living"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Monday"/>
+        <Class IRI="#Days"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Months"/>
+        <Class IRI="#Years"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Moon"/>
+        <Class IRI="#Natural"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mountains"/>
+        <Class IRI="#Natural"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nanosecond"/>
+        <Class IRI="#Microsecond"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Natural"/>
+        <Class IRI="#Non_Living"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Non_Living"/>
+        <Class IRI="#Concrete_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#November"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Numbers"/>
+        <Class IRI="#Mathematical_Objects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#October"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Part_Time"/>
+        <Class IRI="#Time_Position"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Perceptible_Matter"/>
+        <Class IRI="#Matter"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Physical_State"/>
+        <Class IRI="#Internal_Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Plant_Bodied"/>
+        <Class IRI="#1_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pliable"/>
+        <Class IRI="#Shape_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Positional_Attribute"/>
+        <Class IRI="#Relational_Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Propositions"/>
+        <Class IRI="#Derived_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Real_Numbers"/>
+        <Class IRI="#Numbers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Relational_Attributes"/>
+        <Class IRI="#Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Right"/>
+        <Class IRI="#Positional_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Rigid"/>
+        <Class IRI="#Shape_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Saturation_Attribute"/>
+        <Class IRI="#Internal_Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Saturday"/>
+        <Class IRI="#Days"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Scorpions"/>
+        <Class IRI="#4_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seconds"/>
+        <Class IRI="#Minutes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#September"/>
+        <Class IRI="#Months"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shape_Attribute"/>
+        <Class IRI="#Internal_Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shells"/>
+        <Class IRI="#2_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Social_Role"/>
+        <Class IRI="#Relational_Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Solid"/>
+        <Class IRI="#Physical_State"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Space"/>
+        <Class IRI="#Based_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spiders"/>
+        <Class IRI="#4_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Spirit"/>
+        <Class IRI="#Based_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Storms"/>
+        <Class IRI="#Natural"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Subconscious"/>
+        <Class IRI="#Mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sun"/>
+        <Class IRI="#Natural"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sunday"/>
+        <Class IRI="#Days"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Symbols"/>
+        <Class IRI="#Mathematical_Objects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Text"/>
+        <Class IRI="#Mathematical_Objects"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Thursday"/>
+        <Class IRI="#Days"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Time"/>
+        <Class IRI="#Based_Abstract_Entity"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Time_Duration"/>
+        <Class IRI="#Time"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Time_Interval"/>
+        <Class IRI="#Time_Duration"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Time_Position"/>
+        <Class IRI="#Time"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#True"/>
+        <Class IRI="#Truth_Value"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Truth_Value"/>
+        <Class IRI="#Relational_Attributes"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tuesday"/>
+        <Class IRI="#Days"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Unconscious"/>
+        <Class IRI="#Mind"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Unlike"/>
+        <Class IRI="#Truth_Value"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vertical"/>
+        <Class IRI="#Positional_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Water_Bodied"/>
+        <Class IRI="#1_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wednesday"/>
+        <Class IRI="#Days"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Week"/>
+        <Class IRI="#Time_Interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wet"/>
+        <Class IRI="#Saturation_Attribute"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#White_Ants"/>
+        <Class IRI="#3_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wind"/>
+        <Class IRI="#Natural"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Worms"/>
+        <Class IRI="#2_Sensed"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Years"/>
+        <Class IRI="#Time_Interval"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#1_Sensed"/>
+        <Class IRI="#Immobile"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#2_Sensed"/>
+        <Class IRI="#Mobile"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#3_Sensed"/>
+        <Class IRI="#Mobile"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#4_Sensed"/>
+        <Class IRI="#Mobile"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#5_Sensed"/>
+        <Class IRI="#Mobile"/>
+    </SubClassOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#aware_of_an_event"/>
+        <ObjectProperty IRI="#decision_making"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#not_attentive"/>
+        <ObjectProperty IRI="#decision_making"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#not_aware"/>
+        <ObjectProperty IRI="#decision_making"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#aware_of_an_event"/>
+        <Class IRI="#Conscious"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#cannot_be_seen"/>
+        <Class IRI="#Spirit"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#contain_everything"/>
+        <Class IRI="#Space"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#decision_making"/>
+        <Class IRI="#Mind"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#does_not_has_consciousness"/>
+        <Class IRI="#Non_Living"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_12_months"/>
+        <Class IRI="#Years"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_1_sense"/>
+        <Class IRI="#1_Sensed"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_24_hours"/>
+        <Class IRI="#Days"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_28_days"/>
+        <Class IRI="#February"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_29_days"/>
+        <Class IRI="#February"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_30_days"/>
+        <Class IRI="#April"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_30_days"/>
+        <Class IRI="#June"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_30_days"/>
+        <Class IRI="#November"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_30_days"/>
+        <Class IRI="#September"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_31_days"/>
+        <Class IRI="#August"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_31_days"/>
+        <Class IRI="#December"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_31_days"/>
+        <Class IRI="#January"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_31_days"/>
+        <Class IRI="#July"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_31_days"/>
+        <Class IRI="#March"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_31_days"/>
+        <Class IRI="#May"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_31_days"/>
+        <Class IRI="#October"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_4_weeks"/>
+        <Class IRI="#Months"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_60_minutes"/>
+        <Class IRI="#Hours"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_60_seconds"/>
+        <Class IRI="#Minutes"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_7_days"/>
+        <Class IRI="#Week"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_consciousness"/>
+        <Class IRI="#Living"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_mass_and_space"/>
+        <Class IRI="#Matter"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_property"/>
+        <Class IRI="#Attributes"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_structure"/>
+        <Class IRI="#Shape_Attribute"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_unique_property"/>
+        <Class IRI="#Attributes"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#humans_are_involved"/>
+        <Class IRI="#Man_Made"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#humans_are_not_involved"/>
+        <Class IRI="#Natural"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#if_derived_from_primitive"/>
+        <Class IRI="#Derived_Abstract_Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#if_primitive"/>
+        <Class IRI="#Based_Abstract_Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_intelligent"/>
+        <Class IRI="#Humans"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_not_intelligent"/>
+        <Class IRI="#Animals"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_not_tangible"/>
+        <Class IRI="#Abstract_Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_numerical_val"/>
+        <Class IRI="#Numbers"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_tangible"/>
+        <Class IRI="#Concrete_Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_tautology"/>
+        <Class IRI="#Fact"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_unstoppable"/>
+        <Class IRI="#Time"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#is_well_defined_concept"/>
+        <Class IRI="#Fact"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#limit_of_surrounding"/>
+        <Class IRI="#Space"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#make_an_appearance"/>
+        <Class IRI="#Figures"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#movable"/>
+        <Class IRI="#Mobile"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#not_attentive"/>
+        <Class IRI="#Subconscious"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#not_aware"/>
+        <Class IRI="#Unconscious"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#not_movable"/>
+        <Class IRI="#Immobile"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#part_of_universe"/>
+        <Class IRI="#Entity"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#photosynthetic_eukaryotes"/>
+        <Class IRI="#Plant_Bodied"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#physical_existence"/>
+        <Class IRI="#Physical_State"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#possesses_air"/>
+        <Class IRI="#Air_Bodied"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#possesses_fire"/>
+        <Class IRI="#Fire_Bodied"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#possesses_water"/>
+        <Class IRI="#Water_Bodied"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#sense_of_touch_and_taste"/>
+        <Class IRI="#2_Sensed"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#sense_of_touch_and_taste_and_smell"/>
+        <Class IRI="#3_Sensed"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#sense_of_touch_and_taste_and_smell_and_sight"/>
+        <Class IRI="#4_Sensed"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#sense_of_touch_and_taste_and_smell_and_sight_and_hearing"/>
+        <Class IRI="#5_Sensed"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#written_or_printed_work"/>
+        <Class IRI="#Text"/>
+    </ObjectPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#abundant"/>
+        <Class IRI="#Natural"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#angle"/>
+        <Class IRI="#Figures"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#attribute_identifiers"/>
+        <Class IRI="#Attributes"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#autotrophic"/>
+        <Class IRI="#Plant_Bodied"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#body_symmetry"/>
+        <Class IRI="#2_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#body_symmetry"/>
+        <Class IRI="#5_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#body_type"/>
+        <Class IRI="#3_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#cell_wall"/>
+        <Class IRI="#Plant_Bodied"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#changeable"/>
+        <Class IRI="#Time"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#color"/>
+        <Class IRI="#Matter"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#density"/>
+        <Class IRI="#Matter"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#dimensionality"/>
+        <Class IRI="#Space"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#dimensions"/>
+        <Class IRI="#Figures"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#ears"/>
+        <Class IRI="#5_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#eyes"/>
+        <Class IRI="#4_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#eyes"/>
+        <Class IRI="#5_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#feel"/>
+        <Class IRI="#Plant_Bodied"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#feeling"/>
+        <Class IRI="#Mind"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#font_style"/>
+        <Class IRI="#Text"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#geometry"/>
+        <Class IRI="#Space"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#growth"/>
+        <Class IRI="#Living"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#habitat"/>
+        <Class IRI="#2_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hands"/>
+        <Class IRI="#5_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_body"/>
+        <Class IRI="#Living"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_mind"/>
+        <Class IRI="#Living"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#has_weight"/>
+        <Class IRI="#Concrete_Entity"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#legs"/>
+        <Class IRI="#3_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#legs"/>
+        <Class IRI="#4_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#legs"/>
+        <Class IRI="#5_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nose"/>
+        <Class IRI="#3_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nose"/>
+        <Class IRI="#4_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#nose"/>
+        <Class IRI="#5_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#produces_energy"/>
+        <Class IRI="#Immobile"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#renewable"/>
+        <Class IRI="#Natural"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#reproduction"/>
+        <Class IRI="#Living"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#requires_energy"/>
+        <Class IRI="#Mobile"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#respiration"/>
+        <Class IRI="#3_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#respire"/>
+        <Class IRI="#Living"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#shape"/>
+        <Class IRI="#Non_Living"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#side"/>
+        <Class IRI="#Figures"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#size"/>
+        <Class IRI="#Non_Living"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#skeleton_system"/>
+        <Class IRI="#4_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#stoppable"/>
+        <Class IRI="#Time"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#thinking"/>
+        <Class IRI="#Mind"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#tongue"/>
+        <Class IRI="#2_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#tongue"/>
+        <Class IRI="#3_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#tongue"/>
+        <Class IRI="#4_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#tongue"/>
+        <Class IRI="#5_Sensed"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#topology"/>
+        <Class IRI="#Space"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#truthness"/>
+        <Class IRI="#Propositions"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#unchanged"/>
+        <Class IRI="#Fact"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#usefulness"/>
+        <Class IRI="#Man_Made"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#visibility"/>
+        <Class IRI="#Text"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#volume"/>
+        <Class IRI="#Matter"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#weightless"/>
+        <Class IRI="#Abstract_Entity"/>
+    </DataPropertyDomain>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.5.20160517-0735) https://github.com/owlcs/owlapi -->
+
